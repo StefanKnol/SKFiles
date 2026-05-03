@@ -3,3 +3,10 @@
 ! 0.0.0.0 example.com
 0.0.0.0 happyleafmotion.com
 0.0.0.0 joi.com
+0.0.0.0 wayfarerorthodox.com
+0.0.0.0 realizationnewestfangs.com
+0.0.0.0 kettledroopingcontinuation.com
+0.0.0.0 skinnycrawlinglax.com
+0.0.0.0 sourshaped.com
+0.0.0.0 preferencenail.com
+0.0.0.0 api-adservices.apple.com
