@@ -10,3 +10,4 @@
 0.0.0.0 sourshaped.com
 0.0.0.0 preferencenail.com
 0.0.0.0 api-adservices.apple.com
+0.0.0.0 seminarycentral.org
