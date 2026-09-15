@@ -12,3 +12,8 @@
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 seminarycentral.org
 0.0.0.0 spicy-box.com
+0.0.0.0 realizationnewestfangs.com
+0.0.0.0 app-analytics-services.com
+0.0.0.0 zoologyfibre.com
+0.0.0.0 processedlizardadjoining.com
+0.0.0.0 portalfluently.com
