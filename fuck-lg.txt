@@ -10,4 +10,3 @@
 0.0.0.0 snu-dev.lge.com
 0.0.0.0 su-dev.lge.com
 0.0.0.0 ngfts.lge.com
-0.0.0.0 lgsmartweb.com
